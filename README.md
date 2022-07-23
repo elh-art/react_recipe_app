@@ -65,7 +65,6 @@ Room for improvement:
 
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by Dev Ed's recipe React app.
 
 
