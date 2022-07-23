@@ -1,4 +1,4 @@
-![whatToEat](https://user-images.githubusercontent.com/48730665/179961785-7e92c0bb-d52c-4dfd-a91d-7205540cc470.gif | width=300)
+![whatToEat](https://user-images.githubusercontent.com/48730665/179961785-7e92c0bb-d52c-4dfd-a91d-7205540cc470.gif)
 
 # What to eat today?
 >  It is a small React app that I created to help me (or others) with cooking ideas. The application retrieves data from edamam's API.
@@ -35,11 +35,11 @@
 
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/48730665/179962127-988acead-eb06-4c34-a499-eb87f28c1947.png  | width=300)
+![image](https://user-images.githubusercontent.com/48730665/179962127-988acead-eb06-4c34-a499-eb87f28c1947.png)
 
 Responsiveness:
 
-![whatToEat_responsive](https://user-images.githubusercontent.com/48730665/179995016-4e94a342-c67b-41ef-9bfa-12e70fc87354.gif | width=300)
+![whatToEat_responsive](https://user-images.githubusercontent.com/48730665/179995016-4e94a342-c67b-41ef-9bfa-12e70fc87354.gif)
 
 
 ## Setup
