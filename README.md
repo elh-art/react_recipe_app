@@ -1,6 +1,6 @@
 ![whatToEat](https://user-images.githubusercontent.com/48730665/179961785-7e92c0bb-d52c-4dfd-a91d-7205540cc470.gif)
 
-# What to eat today app?
+# What to eat today? app
 >  It is a small React app that I created to help me (or others) with cooking ideas. The application retrieves data from edamam's API.
 
 ## Table of Contents
